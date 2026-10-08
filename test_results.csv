@@ -1,0 +1,5 @@
+Date & Time,Performance Type,Route,Buy Price,Sell Price,Difference,Difference (%),Result,Return (%),Initial Capital,Net Gain,Final Capital
+2026-10-07 23:11:55,Not Profitable,Official to Blue,1540,1535,-5,-0.32,-13214.29,-1.32,1000000.0,-13214.29,986785.71
+2026-10-07 23:11:55,Not Profitable,Official to Mep,1540,1537.8,-2.2,-0.14,-11414.29,-1.14,1000000.0,-11414.29,988585.71
+2026-10-07 23:11:55,Profitable,Official to Crypto,1540,1606.05,66.05,4.29,32460.71,3.25,1000000.0,32460.71,1032460.71
+2026-10-07 23:11:55,Profitable,Official to Card,1540,1937,397,25.78,245214.29,24.52,1000000.0,245214.29,1245214.29
